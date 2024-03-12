@@ -10,3 +10,27 @@
 - Flex
 - 필터 효과
 - GitHub 페이지로 배포🚀
+
+_italic_  
+**bold**  
+_italic_  
+**bold**  
+**_italicbold_**  
+~~cancel~~  
+<u>underline</u>
+
+```
+wow
+```
+
+- ul
+- ul
+
+1. ol
+1. ol
+   1. indent 3
+   1. ol
+1. ol
+1. ol
+
+![Alternative Text](https://source.unsplash.com/random/300x300/?programming)
