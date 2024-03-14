@@ -9,7 +9,8 @@
 - 기본 CSS
 - Flex
 - 필터 효과
-- GitHub 페이지로 배포🚀
+- GitHub 페이지로 배포🚀  
+  [배포링크](https://lynpark.github.io/0312-Login-Form/)
 
 _italic_  
 **bold**  
